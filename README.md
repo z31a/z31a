@@ -19,6 +19,6 @@ Details about tech I use :
 + Arch Linux Distribution (GNU + Linux + Systemd)
 + Linux LTS kernel
 
-> Happy Coding !
+`Happy Coding !`
 
 <!--end-->
