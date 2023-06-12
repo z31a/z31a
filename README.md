@@ -2,7 +2,7 @@
 
 # Hello, Friend 
 
-Details about tech I use : 
+tech I use : 
 
 ### PROGRAMMING LANGUAGES
 
